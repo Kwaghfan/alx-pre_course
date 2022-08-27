@@ -1,2 +1,1 @@
-i#! /bin/bash
-ALX SCHOOL
+echo "ALX School is so cool!"
